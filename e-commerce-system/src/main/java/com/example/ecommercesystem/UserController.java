@@ -3,7 +3,6 @@ package com.example.ecommercesystem;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
-//User related endpoints (doors to the app)
 //one controller class can contain any number of endpoints
 //an endpoint is single responsible (usually)
 // An endpoint is a method
