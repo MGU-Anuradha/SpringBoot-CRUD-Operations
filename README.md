@@ -1,7 +1,7 @@
 # E-Commerce System
 
 Backend development using Java and Spring Boot is a popular choice for building robust and scalable web applications. 
-This has basic CRUD operations and this simply gives an idea about how to implement these operations to a e-commerce system.This is a simple application.
+This has basic CRUD operations and this simply gives an idea about how to implement these operations to a e-commerce system.This is a simple application that explore user management.
 
 The given below notes will provide a good understanding of how this simple application is worked and run.
 
